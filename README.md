@@ -1,5 +1,7 @@
 # Basic Template
 
+![basic template](https://github.com/user-attachments/assets/b989ed16-53e0-4cd9-87b1-f77b55fd3a81)
+
 A minimal, modern starter template for building web applications. This template provides a solid foundation with essential configurations and best practices out of the box.
 
 ## Features
